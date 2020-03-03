@@ -1,5 +1,5 @@
 {
-  "name": "enviopack",
+  "name": "enviopack-node",
   "version": "0.1.0",
   "description": "EnvioPack client",
   "main": "index.js",
